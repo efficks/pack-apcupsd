@@ -1,0 +1,24 @@
+{
+  "name": "apcupsd",
+  "types": ["pack"],
+  "version": "1.0",
+  "homepage": "https://github.com/efficks/pack-apcupsd",
+  "author": "François-Xavier Choinière",
+  "description": "Shinken configuration pack for apcupsd",
+  "contributors": [
+  {
+  "name": "François-Xavier Choinière",
+  "email": "fx@efficks.com"
+  }
+  ],
+  "repository": "https://github.com/efficks/pack-apcupsd",
+  "keywords": [
+      "pack",
+      "apcupsd",
+      "ups"
+  ],
+  "dependencies": {
+      "shinken": ">=2.4"
+  },
+  "license": "GPLv3"
+}
